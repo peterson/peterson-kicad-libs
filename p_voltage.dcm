@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM63635
+F https://www.ti.com/lit/ds/symlink/lm63635-q1.pdf
+$ENDCMP
+#
+#End Doc Library
